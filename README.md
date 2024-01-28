@@ -6,7 +6,7 @@ In today's fast-paced world, it's essential to stay updated with the latest news
 ## Workflow for Building a News Articles Summarizer
 Here’s what we are going to do in this project.
 
-
+<img align="center" src="nas.avif" alt="banner">
 
 And here are the steps described in more detail:
 
